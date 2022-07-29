@@ -1,16 +1,7 @@
 package com.example.friendsbook;
 
 public class Friend {
-    /*
-    For this assignment you are to create a Friends book.
-    In this program you should be able to do the following actions:
-    create a friend
-    Select a friend and see their properties
-    Delete a friend
-    Display all the friends.
-    Friends should be objects  I will let you decide how you want to code them.
-    You decide which fields you think are best.
-     */
+    
     private String name;
 
     public String getName() {
